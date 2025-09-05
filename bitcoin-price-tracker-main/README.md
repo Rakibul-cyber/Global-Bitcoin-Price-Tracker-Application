@@ -1,16 +1,22 @@
-# bitcoin
+# 🌍 Global Bitcoin Price Tracker Application
 
-A new Flutter project.
+A **Flutter-based cross-platform application** that tracks Bitcoin prices in real time.  
+The app integrates with cryptocurrency APIs to provide **live market data**, **historical trends**, and **graphical insights**, empowering users to make informed decisions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📊 **Real-time Price Updates** – Fetch Bitcoin prices from reliable APIs  
+- 📈 **Historical Charts** – Visualize past trends and market fluctuations  
+- 🔔 **Notifications & Alerts** – Stay informed about sudden price changes  
+- 🌐 **Global Support** – Track Bitcoin values across multiple currencies  
+- 📱 **Cross-Platform** – Optimized for both Android and iOS  
+- 🎨 **Responsive UI** – Clean and user-friendly interface  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Frontend:** Flutter  
+- **Backend / APIs:** REST APIs (Crypto Price APIs)  
+- **Database / Storage:** Firebase (for user data & preferences)  
+- **Notifications:** Firebase Cloud Messaging  
